@@ -18,7 +18,12 @@
 <p>Στην σύνεχεια κατέβασα το unit_3 και ξέκινησα τις άλλαγες στον χώρο με βάση το tutorial και όλοκλήρωσω το creative challenge.Με βάση τις όδηγιες έστησα την σκήνη μου και δημίοργησα τον κόνο που ζητήθηκε στην σύνεχεια εβάλα διαφόρα φώτα και άλλαξα την θέση και το χρώμα του directional light.Για το creative challenge ζητήθηκε να  βάλω τουλάχιστον 5 διαφόρετίκα props και να δημιουργήσω ένα νέο μέσω του **ProBuilder**.Οπότε έγω πρόσθεσα μια βάση για πόδηλατα κάθως και 5 ποδήλατα , 2 βαρέλια , έναν κόνο πυροσβεστικης 2 άμαξια , ένα μηχάνακι, μια αψίδα ,πρόσθεσα και 5 νέα φώτα σε διαφόρα χρώματα  και για το τέλος σχέδιασα και μια νέα πινακίδα stop.</p>
 
 ![](https://github.com/Marina-Eleni-Anastasiadou/Digital-Storytelling-Individual-Assignment/blob/main/my_report/FOTO_KONOY.png)
-
+![](https://github.com/Marina-Eleni-Anastasiadou/Digital-Storytelling-Individual-Assignment/blob/main/my_report/NEA%20SKINI.png)
+![](https://github.com/Marina-Eleni-Anastasiadou/Digital-Storytelling-Individual-Assignment/blob/main/my_report/NEA%20SKINI2.png)
+![](https://github.com/Marina-Eleni-Anastasiadou/Digital-Storytelling-Individual-Assignment/blob/main/my_report/NEA%20SKINI3.png)
+![](https://github.com/Marina-Eleni-Anastasiadou/Digital-Storytelling-Individual-Assignment/blob/main/my_report/NEA%20SKINI4.png)
+![](https://github.com/Marina-Eleni-Anastasiadou/Digital-Storytelling-Individual-Assignment/blob/main/my_report/NEA%20SKINI5.png)
+![](https://github.com/Marina-Eleni-Anastasiadou/Digital-Storytelling-Individual-Assignment/blob/main/my_report/STOP.png)
 
 
 # 2nd Deliverable
