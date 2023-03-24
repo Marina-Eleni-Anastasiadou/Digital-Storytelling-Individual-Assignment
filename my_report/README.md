@@ -40,6 +40,10 @@
 ![](https://github.com/Marina-Eleni-Anastasiadou/Digital-Storytelling-Individual-Assignment/blob/main/my_report/NEA%20SKINI5.png)
 ![](https://github.com/Marina-Eleni-Anastasiadou/Digital-Storytelling-Individual-Assignment/blob/main/my_report/STOP.png)
 
+
+https://user-images.githubusercontent.com/100956292/227598495-c494716a-20ad-4da6-b205-d6e52e462802.mp4
+
+
 <p>Για το τέλος του πρώτο παραδότεου ζήτηθηκε να φτίαχθει ένα μίκρο βίντέο animation που θα έχει τουλάχιστον 2 κίνουμενα αντικέιμενα  και ένα χαρακτήρα.Εγώ ακόλουθόντας τις οδήγιες που δώθηκαν στο unit_4 πήρα το παραδείγμα απο έκει και πρόσθεσα ένα πόδηλατο κια ένα βαρέλι να κινούνται στο δρόμο, και ένα ρόμποτ για τον χαρακτήρα σε κίνηση.
 </p>
 
