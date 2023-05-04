@@ -66,20 +66,29 @@ https://user-images.githubusercontent.com/100956292/227598495-c494716a-20ad-4da6
 
 https://user-images.githubusercontent.com/100956292/234728688-7bd35ebd-9951-4b0b-bafa-2f6557b742f9.mp4
 
-<p>Στην συνέχεια ακόλουθωντας τις οδηγιες του unit 6 τοποθέτησα φώτα με διαφορετίκα χρώματα στην σκήνη μου για να δημιουργηθεί η κατάληλλη ατμόσφαιρα για την ταίνια, κάθως για να τόνιστουν ορίσμενα στοίχεια της.  </p>
+<p>Στην συνέχεια ακόλουθωντας τις οδηγιες του unit 6 τοποθέτησα φώτα με διαφορετίκα χρώματα στην σκήνη μου για να δημιουργηθεί η κατάληλλη ατμόσφαιρα για την ταίνια, κάθως για να τόνιστουν ορίσμενα στοίχεια της.Βέβαιως για να μην πέφτει το ένα πάνω στο άλλο στις φόρες που χαλουσε το πλάνο δημιόργηθαν και τα άναλογα animation σε ορίσμενα άπο αυτά.</p>
 
 ![2](https://user-images.githubusercontent.com/100956292/236255202-f78fcc06-550e-40b7-8b04-1c28ec85e2a3.png)
+![7](https://user-images.githubusercontent.com/100956292/236256804-089d2fae-7714-40bc-868d-4f3556cb7222.png)
+![15](https://user-images.githubusercontent.com/100956292/236257811-ab88a761-e298-4c73-9f35-5b7c1d5033cc.png)
+![16](https://user-images.githubusercontent.com/100956292/236257826-faa02cda-fa84-4d29-a875-3671df953b5d.png)
 
-<p></p>
+
+
+
 
 https://user-images.githubusercontent.com/100956292/234729022-c7155384-70c1-480a-99a4-0c0efbe51a81.mp4
 
 
+<p></p>
 
 
 
 
 
+
+
+https://user-images.githubusercontent.com/100956292/236258116-99767706-ea9b-4c23-972f-90c5ee9a02aa.mp4
 
 
 
